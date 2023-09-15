@@ -1,6 +1,4 @@
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 from tensorflow import keras
 import tensorflow as tf
 import logging
@@ -127,7 +125,6 @@ def main_flow():
     parser.add_argument('--filename', type=str, default="mnist.npz")
     args, _ = parser.parse_known_args()
     
-#     s3_path = "processing_output/"
     train_path = args.train
     filename = args.filename
     
