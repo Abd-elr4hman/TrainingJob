@@ -1,6 +1,7 @@
 # TrainingJob
 This porject illustrates a machine learning training pipeline. The main focus is the MLOPS Practices like Workflow Orchestration, Experiment tracking, Model versioning.
-![image](https://github.com/Abd-elr4hman/TrainingJob/assets/87248009/e40b2d75-3b10-4e69-a48a-2c5044700652)
+![image](https://github.com/Abd-elr4hman/TrainingJob/assets/87248009/0fde99be-ee8d-424c-92a0-e44a4b2617f7)
+
 
 
 The project is split into 3 repositories:
